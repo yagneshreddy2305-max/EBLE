@@ -248,8 +248,3 @@ else:
     st.warning(
         "No data available for analysis."
     )
-
-
-    from utils.theme import apply_theme
-
-apply_theme()
