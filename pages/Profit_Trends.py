@@ -190,7 +190,3 @@ else:
     st.warning(
         "Profit growth is slowing. Monitor expenses closely."
     )
-
-    from utils.theme import apply_theme
-
-apply_theme()
