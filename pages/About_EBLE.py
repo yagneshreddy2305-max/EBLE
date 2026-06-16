@@ -63,26 +63,23 @@ with col2:
     • Multi-Language Support
     """)
 
-st.markdown("---")
-
-st.subheader("🎯 Target Users")
+st.subheader("🎯 Who EBLE Serves")
 
 st.info("""
-🏪 Kirana Stores
+🏪 Retail & Kirana Stores
 
-☕ Tea Stalls
+🍵 Food & Beverage Businesses
 
-🥛 Dairy Businesses
+🚚 Street Vendors & Mobile Sellers
 
-🛒 Small Retail Shops
+🧵 Local Manufacturing & Home Businesses
 
-🚚 Street Vendors
+📦 Wholesale & Distribution Businesses
 
-🏬 Local Traders
+💄 Beauty, Fashion & Service Providers
 
-📦 Micro Businesses
+🚜 Rural & Agri-Linked Enterprises
 """)
-
 st.markdown("---")
 
 st.subheader("🌟 Key Features")
