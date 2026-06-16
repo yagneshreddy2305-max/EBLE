@@ -68,15 +68,9 @@ st.subheader("🎯 Who EBLE Serves")
 st.info("""
 🏪 Retail & Kirana Stores
 
-🍵 Food & Beverage Businesses
-
 🚚 Street Vendors & Mobile Sellers
 
 🧵 Local Manufacturing & Home Businesses
-
-📦 Wholesale & Distribution Businesses
-
-💄 Beauty, Fashion & Service Providers
 
 🚜 Rural & Agri-Linked Enterprises
 """)
