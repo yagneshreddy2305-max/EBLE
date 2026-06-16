@@ -240,23 +240,6 @@ with phase3:
 
 st.markdown("---")
 
-# JOURNEY
-st.subheader("📅 EBLE Growth Journey")
-
-st.markdown("""
-**2025** → Business Record Keeping
-
-**2026** → AI Business Intelligence
-
-**2027** → Financial Inclusion Platform
-
-**2028** → Embedded Credit Ecosystem
-
-**2030** → India's Small Business Operating System
-""")
-
-st.markdown("---")
-
 # FINAL MESSAGE
 st.subheader("🏆 Why EBLE?")
 
