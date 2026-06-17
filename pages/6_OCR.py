@@ -54,7 +54,7 @@ if uploaded_file:
     st.text_area(
         "Extracted Text",
         """
-Shop: Balaji Kirana Store
+Shop: Ravi Kirana Store
 
 Rice ₹500
 Oil ₹250
